@@ -277,7 +277,8 @@ There are actually two workflows in the existing `wercker.yml` file. We will jus
   - `DOCKER_PASSWORD`
   - `DOCKER_REPO`
   - `DOCKER_REGISTRY`
-
+  - `OSB_ATP_NAME`  
+  - `ATPADW_NAME`
 
 
 ## Execute Your CI/CD Pipelines
